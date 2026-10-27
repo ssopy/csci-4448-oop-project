@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Charmander",
+    "type": "FIRE",
+    "stats": { "maxHp": 120, "attack": 52, "defense": 43, "speed": 65 },
+    "moves": [
+      { "name": "Tackle", "type": "NORMAL", "power": 40 },
+      { "name": "Ember", "type": "FIRE", "power": 40 }
+    ]
+  },
+  {
+    "name": "Squirtle",
+    "type": "WATER",
+    "stats": { "maxHp": 120, "attack": 48, "defense": 65, "speed": 43 },
+    "moves": [
+      { "name": "Tackle", "type": "NORMAL", "power": 40 },
+      { "name": "Water Gun", "type": "WATER", "power": 40 }
+    ]
+  },
+  {
+    "name": "Bulbasaur",
+    "type": "GRASS",
+    "stats": { "maxHp": 120, "attack": 49, "defense": 49, "speed": 45 },
+    "moves": [
+      { "name": "Tackle", "type": "NORMAL", "power": 40 },
+      { "name": "Vine Whip", "type": "GRASS", "power": 45 }
+    ]
+  }
+]
